@@ -13,6 +13,10 @@ link: https://www.amazon.com/dp/B07XC7SKZK
 link2: https://www.aliexpress.com/item/4000747886127.html
 link3: https://www.walmart.ca/en/ip/X10S-WiFi-Smart-Time-Switch-Timing-Socket-Outlet-Plug-For-Amazon-Alexa-Google/PRD5U8SCC7J6NXJ
 ---
+Conversion still posibble on devices purchased in November 2020, with some hickups.
+Couple outlets failed/disconnected prior to uploading tasmota firmware just before initial backup completed during initial flash (NO vtrust-recovery WiFi).
+I was able to re-establish a connection and re-flash after following the "Fast Power Cycle Device Recovery" procedure.
+
 As of September 20, 2020, a four-pack of these plugs ordered from Amazon.com is not able to install tasmota using
 the tuya-convert utility. The exterior of these plug is slightly different than in the pictures, above.
 On the front of the plug the placement of the button and LED has changed.
